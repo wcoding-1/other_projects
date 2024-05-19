@@ -1,0 +1,45 @@
+/* form {
+    text-align: center;
+} */
+
+input {
+    padding: 10px 20%;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+.main {
+    text-align: center;
+    font-family: sans-serif;
+}
+ul {
+    width: 45%;
+    margin: 0 auto;
+    margin-top: 20px;
+
+
+
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    
+ 
+}
+
+p {
+ padding: 0 10px;
+ font-size: 1.45rem;
+   
+}
+
+.delete {
+    cursor: pointer;
+}
+

@@ -1,0 +1,16 @@
+#forcast{
+    width: 70%;
+    margin: 30px auto;
+    border: 1px solid;
+    text-align: center;
+}
+
+table{
+    margin: 10px auto;
+}
+th, td {
+    
+    padding: 5px 15px;
+}
+
+
